@@ -1,1 +1,7 @@
 D:\Faculdade\2ª Fase\Projeto Integrador\LeFuteba\LeFuteba\bin\Debug\LeFuteba.exe.config
+D:\Faculdade\2Fase\Projeto Integrador\LeFuteba\LeFuteba\bin\Debug\LeFuteba.exe.config
+D:\Faculdade\2Fase\Projeto Integrador\LeFuteba\LeFuteba\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Faculdade\2Fase\Projeto Integrador\LeFuteba\LeFuteba\obj\x86\Debug\LeFuteba.Form1.resources
+D:\Faculdade\2Fase\Projeto Integrador\LeFuteba\LeFuteba\obj\x86\Debug\LeFuteba.Properties.Resources.resources
+D:\Faculdade\2Fase\Projeto Integrador\LeFuteba\LeFuteba\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Faculdade\2Fase\Projeto Integrador\LeFuteba\LeFuteba\obj\x86\Debug\GenerateResource.write.1.tlog
